@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "206018665953",
+    "firebase_url": "https://jseaapp-38bf5.firebaseio.com",
+    "project_id": "jseaapp-38bf5",
+    "storage_bucket": "jseaapp-38bf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206018665953:android:3bc0d2735f81e949",
+        "android_client_info": {
+          "package_name": "com.a3scorp.jsea.speech_to_text_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206018665953-6ra2mdqckl2a4dk0v4kl0j9itt50tqvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvCJb6STv3wA1-ckk9UA1C4njMdsP1CEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

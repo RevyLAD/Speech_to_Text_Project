@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="대분류">
+        <item>기본표현</item>
+        <item>공항/비행기</item>
+        <item>숙박</item>
+        <item>식당</item>
+        <item>쇼핑</item>
+        <item>교통</item>
+        <item>관광</item>
+        <item>엔터테인먼트</item>
+        <item>전화</item>
+        <item>감정/의견표현</item>
+        <item>생활/가정</item>
+        <item>직장</item>
+        <item>병원/약국</item>
+        <item>공공기관</item>
+        <item>편의시설</item>
+        <item>긴급상황</item>
+    </string-array>
+
+    <string-array name="중분류">
+        <item>인사/안부</item>
+        <item>부탁/유청/수락/거절</item>
+        <item>축하/칭찬</item>
+        <item>감사</item>
+        <item>사과/용서/양보</item>
+        <item>신상/성향</item>
+        <item>행동/지시</item>
+        <item>질문/대답</item>
+        <item>숫자</item>
+        <item>시각</item>
+        <item>시간</item>
+        <item>날짜</item>
+        <item>날씨</item>
+        <item>숫자/날짜단어장</item>
+    </string-array>
+
+
+    <string-array name="소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>인사</item>
+        <item>소개</item>
+        <item>근황</item>
+        <item>우연한 만남</item>
+        <item>타인의 안부</item>
+        <item>작별 인사</item>
+        <item>연락 당부</item>
+        <item>새해 인사</item>
+    </string-array>
+
+    <!-- ///////////// 기본표현 //////////////// -->
+
+    <string-array name="기본표현_중분류">
+        <item>인사/안부</item>
+        <item>부탁/요청/수락/거절</item>
+        <item>축하/칭찬</item>
+        <item>감사</item>
+        <item>사과/용서/양보</item>
+        <item>신상/성향</item>
+        <item>행동/지시</item>
+        <item>질문/대답</item>
+        <item>숫자</item>
+        <item>시각</item>
+        <item>시간</item>
+        <item>날짜</item>
+        <item>날씨</item>
+        <item>숫자/날짜단어장</item>
+    </string-array>
+
+    <string-array name="기본표현_인사안부_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>인사</item>
+        <item>소개</item>
+        <item>근황</item>
+        <item>우연한 만남</item>
+        <item>타인의 안부</item>
+        <item>작별 인사</item>
+        <item>연락 당부</item>
+        <item>새해 인사</item>
+    </string-array>
+
+    <string-array name="기본표현_부탁요청수락거절_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>부탁/요청할 때</item>
+        <item>수락</item>
+        <item>거절</item>
+    </string-array>
+
+    <string-array name="기본표현_축하칭찬_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>축하</item>
+        <item>기원</item>
+        <item>칭찬</item>
+    </string-array>
+
+    <string-array name="기본표현_감사_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>감사</item>
+        <item>수고</item>
+        <item>선물</item>
+    </string-array>
+
+    <string-array name="기본표현_사과용서양보_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>사괴</item>
+        <item>용서</item>
+        <item>양보</item>
+    </string-array>
+
+    <string-array name="기본표현_신상성향_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>국적/지역</item>
+        <item>나이/생일</item>
+        <item>외모/체형</item>
+        <item>성격</item>
+        <item>직업</item>
+        <item>여가/취미</item>
+        <item>책/음악/영화</item>
+        <item>스포츠</item>
+        <item>종교</item>
+        <item>가족/친</item>
+    </string-array>
+
+    <string-array name="기본표현_행동지시_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>사람을 부를 때</item>
+        <item>볼 때/들을 때</item>
+        <item>시끄러울 때</item>
+        <item>재촉할 때</item>
+        <item>안내할 </item>
+        <item>기타</item>
+    </string-array>
+
+    <string-array name="기본표현_질문대답_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>질문할 때</item>
+        <item>위치를 모를 때</item>
+        <item>정보를 물을 때</item>
+        <item>대답할 </item>
+    </string-array>
+
+    <string-array name="기본표현_숫자_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+    <string-array name="기본표현_시각_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+    <string-array name="기본표현_시간_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+    <string-array name="기본표현_날짜_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>날짜</item>
+        <item>요일</item>
+        <item>공휴일</item>
+    </string-array>
+
+    <string-array name="기본표현_날씨_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>날씨</item>
+        <item>계절</item>
+    </string-array>
+
+    <string-array name="기본표현_숫자날짜단어장_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+
+    <!-- ///////////// 공항/비행기  //////////////// -->
+
+    <string-array name="공항비행기_중분류">
+        <item>항공권 예약</item>
+        <item>발권</item>
+        <item>출입국수속</item>
+        <item>비행기 내</item>
+        <item>비행기 환승/연착</item>
+        <item>수하물/환전/공항이동</item>
+    </string-array>
+
+    <string-array name="공항비행기_항공권예약_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>항공편 예약</item>
+        <item>요금 문의</item>
+        <item>예약 확인</item>
+        <item>예약 변경</item>
+    </string-array>
+
+    <string-array name="공항비행기_발권_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>항공권 발급</item>
+        <item>수화물 접수</item>
+    </string-array>
+
+    <string-array name="공항비행기_출입국수속_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>출국심사</item>
+        <item>보안</item>
+        <item>입국심사</item>
+        <item>세관검사</item>
+    </string-array>
+
+    <string-array name="공항비행기_비행기내_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>좌석찾기</item>
+        <item>기내식</item>
+        <item>비행기안전</item>
+        <item>기내면세품</item>
+        <item>기내서비스</item>
+        <item>몸이 불편할 때</item>
+        <item>착륙 직전</item>
+    </string-array>
+
+    <string-array name="공항비행기_비행기환승연착_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>환승</item>
+        <item>연착</item>
+        <item>비행기를 놓쳤을 때</item>
+    </string-array>
+
+    <string-array name="공항비행기_수하물환전공항이동_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>수화물 찾기</item>
+        <item>수화물 분실</item>
+        <item>환전</item>
+        <item>목적지 공항 도착</item>
+    </string-array>
+
+
+    <!-- ///////////// 숙박 //////////////// -->
+
+    <string-array name="숙박_중분류">
+        <item>예약/체크인</item>
+        <item>서비스</item>
+        <item>체크아웃</item>
+    </string-array>
+
+    <string-array name="숙박_예약체크인_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>예약</item>
+        <item>체크인</item>
+    </string-array>
+
+    <string-array name="숙박_서비스_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>룸서비스</item>
+        <item>호텔 서비스</item>
+        <item>불만/요청</item>
+    </string-array>
+
+    <string-array name="숙박_체크아웃_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+
+    <!-- ///////////// 식당 //////////////// -->
+
+    <string-array name="식당_중분류">
+        <item>식사 제의</item>
+        <item>예약/입구</item>
+        <item>주문</item>
+        <item>식사</item>
+        <item>불편사항</item>
+        <item>계산</item>
+        <item>패스트푸드</item>
+        <item>카페</item>
+        <item>술집/바</item>
+    </string-array>
+
+    <string-array name="식당_식사제의_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+    <string-array name="식당_예약입구_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>예약</item>
+        <item>입구</item>
+        <item>좌석 잡기</item>
+    </string-array>
+
+    <string-array name="식당_주문_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>포장/배달</item>
+        <item>메뉴/주문 접수 요청</item>
+        <item>추천</item>
+        <item>메뉴 문의</item>
+        <item>메인 식사 주문</item>
+        <item>음료/후식 주문</item>
+        <item>식성</item>
+        <item>추가 주문/요청</item>
+    </string-array>
+
+    <string-array name="식당_식사_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>맛 표현</item>
+        <item>음식 평가</item>
+        <item>식욕</item>
+        <item>식당 화제</item>
+        <item>기타 대화</item>
+        <item>식사를 마치고</item>
+    </string-array>
+
+    <string-array name="식당_불편사항_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>음식 재촉</item>
+        <item>음식 문제</item>
+        <item>서비스 문제</item>
+    </string-array>
+
+    <string-array name="식당_계산_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>계산하기</item>
+        <item>계산서 오류</item>
+        <item>일행과의 계산</item>
+    </string-array>
+
+    <string-array name="식당_패스트푸드_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>주문</item>
+        <item>배달 요청</item>
+    </string-array>
+
+    <string-array name="식당_카페_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>주문</item>
+        <item>서비스 요청</item>
+        <item>기타 대화</item>
+    </string-array>
+
+    <string-array name="식당_술집바_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>제안</item>
+        <item>주문</item>
+        <item>와인</item>
+        <item>술 마실 때</item>
+        <item>술을 권할 때</item>
+        <item>건배</item>
+        <item>주량</item>
+        <item>술 마신 후</item>
+        <item>숙취</item>
+    </string-array>
+
+
+    <!-- ///////////// 쇼핑 //////////////// -->
+
+    <string-array name="쇼핑_중분류">
+        <item>위치 찾기</item>
+        <item>물건 찾기/고르기</item>
+        <item>가격/흥정</item>
+        <item>계산/포장/배달</item>
+        <item>교환/환불</item>
+        <item>면세점</item>
+        <item>옷가게/신발가게</item>
+        <item>화장품점</item>
+        <item>마트</item>
+        <item>서점/문구점</item>
+    </string-array>
+
+    <string-array name="쇼핑_위치찾기_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+    <string-array name="쇼핑_물건찾기고르기_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>매장 입장</item>
+        <item>물건 찾기</item>
+        <item>시범/착용하기</item>
+        <item>선물 고르기</item>
+        <item>다른 물건 찾기</item>
+        <item>AS 문의</item>
+        <item>그냥 나설 때</item>
+    </string-array>
+
+    <string-array name="쇼핑_가격흥정_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>가격 문의</item>
+        <item>흥정</item>
+    </string-array>
+
+    <string-array name="쇼핑_계산포장배달_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>계산장소 문의</item>
+        <item>계산하기</item>
+        <item>계산서 오류</item>
+        <item>포장</item>
+        <item>배달</item>
+    </string-array>
+
+    <string-array name="쇼핑_교환환불_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+    <string-array name="쇼핑_면세점_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+    <string-array name="쇼핑_옷가게신발가게_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>신발 찾기</item>
+        <item>옷 찾기</item>
+        <item>입어보기</item>
+        <item>재질/세탁 문의</item>
+    </string-array>
+
+    <string-array name="쇼핑_화장품점_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+    <string-array name="쇼핑_마트_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>물건 찾기</item>
+        <item>신선 제품</item>
+    </string-array>
+
+    <string-array name="쇼핑_서점문구점_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+
+    <!-- ///////////// 교통 //////////////// -->
+
+    <string-array name="교통_중분류">
+        <item>길 찾기</item>
+        <item>택시</item>
+        <item>버스</item>
+        <item>지하철</item>
+        <item>기차/배</item>
+        <item>렌터카</item>
+        <item>운전</item>
+    </string-array>
+
+    <string-array name="교통_길찾기_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>현재 위치</item>
+        <item>장소 찾기</item>
+        <item>소요시간</item>
+        <item>가는 방법</item>
+    </string-array>
+
+
+    <string-array name="교통_택시_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>택시 찾기</item>
+        <item>승차</item>
+        <item>도착</item>
+        <item>요금</item>
+    </string-array>
+
+    <string-array name="교통_버스_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>버스정류장 찾기</item>
+        <item>버스 정보</item>
+        <item>매표소</item>
+        <item>소요시간</item>
+        <item>하차</item>
+        <item>기타 대화</item>
+    </string-array>
+
+    <string-array name="교통_지하철_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>지하철역 찾기</item>
+        <item>매표소</item>
+        <item>노선 정보</item>
+        <item>하차</item>
+        <item>기타 대화</item>
+        <item>출구 찾기</item>
+    </string-array>
+
+    <string-array name="교통_기차배_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>매표소</item>
+        <item>기차 정보</item>
+        <item>기차 안에서</item>
+        <item>배 안에서</item>
+        <item>하차</item>
+    </string-array>
+
+    <string-array name="교통_렌터카_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>차량 선택</item>
+        <item>보험</item>
+        <item>기타 선택</item>
+        <item>반납</item>
+    </string-array>
+
+    <string-array name="교통_운전_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>운전수준</item>
+        <item>동승</item>
+        <item>운전 중</item>
+        <item>하차</item>
+        <item>주의 환기</item>
+        <item>주차</item>
+        <item>세차</item>
+    </string-array>
+
+
+    <!-- ///////////// 관광 //////////////// -->
+
+    <string-array name="관광_중분류">
+        <item>관광정보</item>
+        <item>촬영</item>
+    </string-array>
+
+    <string-array name="관광_관광정보_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>정보 수집</item>
+        <item>비용 문의</item>
+        <item>투어프로그램</item>
+        <item>관광 중에</item>
+        <item>가이드 설명</item>
+        <item>주의사항</item>
+    </string-array>
+
+    <string-array name="관광_촬영_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>촬영 허락</item>
+        <item>사진 촬영</item>
+    </string-array>
+
+
+    <!-- ///////////// 엔터테인먼트 //////////////// -->
+
+    <string-array name="엔터테인먼트_중분류">
+        <item>티켓</item>
+        <item>좌석</item>
+        <item>극장/공연장</item>
+        <item>박물관/미술관</item>
+        <item>놀이공원/피크닉</item>
+        <item>카지노</item>
+        <item>경기장</item>
+        <item>골프장</item>
+    </string-array>
+
+    <string-array name="엔터테인먼트_티켓_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+    <string-array name="엔터테인먼트_좌석_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>좌석 찾기</item>
+        <item>좌석에서</item>
+        <item>관람예절</item>
+        <item>출연자/작품에 대해</item>
+    </string-array>
+
+    <string-array name="엔터테인먼트_극장공연장_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>관람 제안</item>
+        <item>관람 전</item>
+        <item>관람 후</item>
+    </string-array>
+
+    <string-array name="엔터테인먼트_박물관미술관_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+    <string-array name="엔터테인먼트_놀이공원피크닉_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>놀이공원</item>
+        <item>피크닉 제안</item>
+        <item>피크닉 중</item>
+    </string-array>
+
+    <string-array name="엔터테인먼트_카지노_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>게임 제안</item>
+        <item>게임 준비</item>
+        <item>게임 중</item>
+        <item>환전소</item>
+        <item>불만사항</item>
+    </string-array>
+
+    <string-array name="엔터테인먼트_경기장_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>관람 제안</item>
+        <item>경기 중</item>  ////없음!!!@@
+        <item>경기상황 설명</item>
+        <item>응원</item>
+        <item>경기 결과</item>
+    </string-array>
+
+    <string-array name="엔터테인먼트_골프장_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>플레이 제안</item>
+        <item>예약/등록</item>
+        <item>플레이 중</item>
+        <item>실력/경력 화제</item>
+    </string-array>
+
+
+    <!-- ///////////// 전화 //////////////// -->
+
+    <string-array name="전화_중분류">
+        <item>일반 전화통화</item>
+        <item>부재중/메시지전달</item>
+        <item>공중전화/국제전화</item>
+    </string-array>
+
+
+    <string-array name="전화_일반전화통화_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>전화를 받을 때</item>
+        <item>전화를 사용할 때</item>
+        <item>전화를 잘 못 걸었을 때</item>
+        <item>전화를 끊을 때</item>
+        <item>연결상태가 안 좋을 때</item>
+    </string-array>
+
+    <string-array name="전화_부재중메시지전달_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>부재중</item>
+        <item>메시지 부탁</item>
+        <item>전화 연결</item>
+        <item>메시지전달 받은 후</item>
+    </string-array>
+
+    <string-array name="전화_공중전화국제전화_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>공중전화 찾기</item>
+        <item>공중전화 앞에서</item>
+        <item>국제전화</item>
+    </string-array>
+
+
+    <!-- ///////////// 감정/의견표현 //////////////// -->
+
+    <string-array name="감정의견표현_중분류">
+        <item>기쁨/즐거움</item>
+        <item>슬픔/걱정/위로/충고</item>
+        <item>실망/비난/변명</item>
+        <item>화/짜증</item>
+        <item>긴장/두려움</item>
+        <item>맞장구/농담/비밀</item>
+        <item>다툼/화해</item>
+        <item>오해/후회</item>
+        <item>동의/찬성/반대</item>
+        <item>화제전환/말 잇기</item>
+    </string-array>
+
+
+    <string-array name="감정의견표현_기쁨즐거움_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>기쁨/즐거움</item>
+        <item>흥분/놀라움</item>
+    </string-array>
+
+    <string-array name="감정의견표현_슬픔걱정위로충고_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>슬픔</item>
+        <item>걱정</item>
+        <item>위로</item>
+        <item>조문</item>
+        <item>충고</item>
+    </string-array>
+
+
+    <string-array name="감정의견표현_실망비난변명_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>실망/비난</item>
+        <item>변명</item>
+    </string-array>
+
+
+    <string-array name="감정의견표현_화짜증_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+
+    <string-array name="감정의견표현_긴장두려움_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+
+    <string-array name="감정의견표현_맞장구농담비밀_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>맞장구</item>
+        <item>농담</item>
+        <item>비밀</item>
+    </string-array>
+
+
+    <string-array name="감정의견표현_다툼화해_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+
+    <string-array name="감정의견표현_오해후회_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>오해</item>
+        <item>후회</item>
+    </string-array>
+
+
+    <string-array name="감정의견표현_동의찬성반대_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>이해</item>
+        <item>의견을 물을 때</item>
+        <item>찬성</item>
+        <item>반대</item>
+        <item>의견을 밝힐 때</item>
+    </string-array>
+
+
+    <string-array name="감정의견표현_화제전환말잇기_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>화제전환</item>
+        <item>말 잇기</item>
+        <item>주제 요약</item>
+        <item>대화 재촉</item>
+    </string-array>
+
+
+    <!-- ///////////// 생활/가정 //////////////// -->
+
+    <string-array name="생활가정_중분류">
+        <item>이성 소개</item>
+        <item>데이트/사랑</item>
+        <item>결혼</item>
+        <item>가정생활</item>
+        <item>요리</item>
+        <item>초대/파티</item>
+        <item>약속</item>
+        <item>일상생활</item>
+        <item>재정 문제</item>
+    </string-array>
+
+
+    <string-array name="생활가정_이성소개_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>소개 제안</item>
+        <item>만남 후</item>
+    </string-array>
+
+    <string-array name="생활가정_데이트사랑_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>데이트 신청</item>
+        <item>데이트 중</item>
+        <item>데이트 후</item>
+        <item>사랑 고백</item>
+        <item>이별</item>
+        <item>교제 관계를 물을 때</item>
+    </string-array>
+
+    <string-array name="생활가정_결혼_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>결혼식</item>
+        <item>신혼생활</item>
+        <item>가족관계</item>
+        <item>임신</item>
+        <item>부부생활</item>
+        <item>이혼/사별</item>
+    </string-array>
+
+    <string-array name="생활가정_가정생활_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>침실</item>
+        <item>거실</item>
+        <item>욕실</item>
+        <item>아이방</item>
+        <item>세탁</item>
+        <item>옷방</item>
+        <item>집 안 청소</item>
+        <item>주방</item>
+        <item>주택 문제</item>
+    </string-array>
+
+    <string-array name="생활가정_요리_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>요리 실력</item>
+        <item>요리 중</item>
+        <item>맛 표현</item>
+        <item>요리 대접</item>
+    </string-array>
+
+    <string-array name="생활가정_초대파티_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>식사 초대</item>
+        <item>파티 초대</item>
+        <item>파티장소/시간</item>
+        <item>파티 의상/음식</item>
+        <item>환영 인사</item>
+        <item>없음</item> //없음!!
+        <item>도착</item>
+        <item>소개/인사</item>
+        <item>집 구경</item>
+        <item>식사 대접</item>
+        <item>식사 후</item>
+        <item>파티 떠날 때 </item>
+    </string-array>
+
+    <string-array name="생활가정_약속_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>약속 제안</item>
+        <item>약속 응대</item>
+        <item>약속 확인</item>
+        <item>약속 변경/취소</item>
+        <item>늦얼을 때 </item>
+    </string-array>
+
+    <string-array name="생활가정_일상생활_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>기상/취침</item>
+        <item>식사</item>
+        <item>엘리베이터</item>
+        <item>화장실</item>
+        <item>담배</item>
+        <item>신체 감각</item>
+    </string-array>
+
+    <string-array name="생활가정_재정문제_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>돈을 빌릴 때</item>
+        <item>갚을 때</item>
+    </string-array>
+
+
+    <!-- ///////////// 직장 //////////////// -->
+
+    <string-array name="직장_중분류">
+        <item>구직</item>
+        <item>업무</item>
+        <item>거래</item>
+        <item>기타</item>
+    </string-array>
+
+
+    <string-array name="직장_구직_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>지원</item>
+        <item>면접</item>
+        <item>면접결과</item>
+        <item>급여/복지</item>
+        <item>기타 문의</item>
+    </string-array>
+
+    <string-array name="직장_업무_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>일반 업무</item>
+        <item>회의</item>
+    </string-array>
+
+    <string-array name="직장_거래_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+    <string-array name="직장_기타_소분류">
+        <item>휴가</item>
+        <item>사직</item>
+    </string-array>
+
+
+    <!-- ///////////// 병원/약국 //////////////// -->
+
+    <string-array name="병원약국_중분류">
+        <item>예약/진찰</item>
+        <item>내과/이비인후과</item>
+        <item>피부과/비뇨기과</item>
+        <item>외과/신경외과</item>
+        <item>산부인과/소아과</item>
+        <item>안과/치과</item>
+        <item>문병</item>
+        <item>약구입</item>
+    </string-array>
+
+
+    <string-array name="병원약국_예약진찰_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>예약</item>
+        <item>접수</item>
+        <item>의사 문진</item>
+        <item>의사 진찰</item>
+        <item>처방</item>
+        <item>검사</item>
+    </string-array>
+
+    <string-array name="병원약국_내과이비인후과_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>내과</item>
+        <item>이비인후과</item>
+    </string-array>
+
+    <string-array name="병원약국_피부과비뇨기과_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>피부과</item>
+        <item>비뇨기과</item>
+    </string-array>
+
+    <string-array name="병원약국_외과신경외과_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>외과</item>
+        <item>신경외과</item>
+    </string-array>
+
+    <string-array name="병원약국_산부인과소아과_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>산부인과</item>
+        <item>소아과</item>
+    </string-array>
+
+    <string-array name="병원약국_안과치과_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>안과</item>
+        <item>치과</item>
+    </string-array>
+
+    <string-array name="병원약국_문병_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>입원 소식</item>
+        <item>병문</item>
+
+    </string-array>
+
+    <string-array name="병원약국_약구입_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>일반약 구입</item>
+        <item>복용법</item>
+        <item>처방전</item>
+    </string-array>
+
+
+    <!-- ///////////// 공공기관 //////////////// -->
+
+    <string-array name="공공기관_중분류">
+        <item>학교</item>
+        <item>도서관</item>
+        <item>은행</item>
+        <item>우체국</item>
+        <item>일반 관공서</item>
+    </string-array>
+
+
+    <string-array name="공공기관_학교_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>학교 정보</item>
+        <item>입학 정보</item>
+        <item>수강 신청</item>
+        <item>강의실에서</item>
+        <item>과제</item>
+        <item>시험 준비</item>
+        <item>시험 직후</item>
+        <item>성적</item>
+        <item>상담</item>
+    </string-array>
+
+    <string-array name="공공기관_도서관_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>책 찾기</item>
+        <item>대출</item>
+    </string-array>
+
+    <string-array name="공공기관_은행_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>계좌 개설</item>
+        <item>예금</item>
+        <item>출금</item>
+        <item>대출</item>
+        <item>기타 서비스</item>
+    </string-array>
+
+    <string-array name="공공기관_우체국_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>편지 보내기</item>
+        <item>소포 보내기</item>
+        <item>우편물 수령</item>
+    </string-array>
+
+    <string-array name="공공기관_일반관공서_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>위치 찾기</item>
+        <item>접수</item>
+    </string-array>
+
+    <!-- ///////////// 편의시설 //////////////// -->
+
+    <string-array name="편의시설_중분류">
+        <item>부동산</item>
+        <item>미용실</item>
+        <item>세탁소</item>
+        <item>주유소</item>
+        <item>카센터</item>
+        <item>헬스클럽</item>
+        <item>놀이방</item>
+        <item>사진관</item>
+        <item>컴퓨터/인터넷</item>
+    </string-array>
+
+
+    <string-array name="편의시설_부동산_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>조회 의뢰</item>
+        <item>방문/구경</item>
+        <item>흥정</item>
+        <item>결정</item>
+        <item>계약</item>
+        <item>연체</item>
+    </string-array>
+
+    <string-array name="편의시설_미용실_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>방문</item>
+        <item>커트 머리</item>
+        <item>파마머리</item>
+        <item>염색 머리</item>
+        <item>마무리</item>
+        <item>기타 서비스</item>
+    </string-array>
+
+    <string-array name="편의시설_세탁소_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>세탁물 의뢰</item>
+        <item>수선 의뢰</item>
+        <item>물건 수령</item>
+        <item>문제 제기</item>
+    </string-array>
+
+    <string-array name="편의시설_주유소_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>위치 찾기</item>
+        <item>주유</item>
+        <item>세차</item>
+    </string-array>
+
+    <string-array name="편의시설_카센터_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>접수</item>
+        <item>견적</item>
+        <item>견인</item>
+        <item>수리 후</item>
+    </string-array>
+
+    <string-array name="편의시설_헬스클럽_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>등록</item>
+        <item>상담</item>
+        <item>운동 지도</item>
+    </string-array>
+
+    <string-array name="편의시설_놀이방_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>소개</item>
+        <item>등록</item>
+        <item>선생님 면담</item>
+    </string-array>
+
+    <string-array name="편의시설_사진관_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>의뢰</item>
+        <item>증명사진</item>
+        <item>문제 상황</item>
+    </string-array>
+
+    <string-array name="편의시설_컴퓨터인터넷_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>컴퓨터 이용 문의</item>
+        <item>파일 찾기</item>
+        <item>컴퓨터 고장</item>
+        <item>인터넷 접속 문의</item>
+        <item>인터넷 접속 문제</item>
+    </string-array>
+
+
+    <!-- ///////////// 긴급상황 //////////////// -->
+
+    <string-array name="긴급상황_중분류">
+        <item>응급상황</item>
+        <item>분실/범죄</item>
+        <item>재난/재해</item>
+        <item>교통사고</item>
+        <item>교통위반</item>
+    </string-array>
+
+
+    <string-array name="긴급상황_응급상황_소분류">
+        <item>자주 쓰이는 표현</item>
+    </string-array>
+
+    <string-array name="긴급상황_분실범죄_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>분실물 발생</item>
+        <item>미아/실종</item>
+        <item>분실물/사람 발견</item>
+        <item>분실/도난 신고</item>
+        <item>신용카드 정지</item>
+        <item>강도 피해</item>
+        <item>전화 신고</item>
+        <item>범죄 목격</item>
+        <item>체포</item>
+    </string-array>
+
+    <string-array name="긴급상황_재난재해_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>화재 상황</item>
+        <item>화재신고</item>
+        <item>기타 대화</item>
+    </string-array>
+
+    <string-array name="긴급상황_교통사고_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>사고 상황</item>
+        <item>사고 신고</item>
+    </string-array>
+
+    <string-array name="긴급상황_교통위반_소분류">
+        <item>자주 쓰이는 표현</item>
+        <item>음주단속</item>
+        <item>교통신호 위반</item>
+        <item>견인</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

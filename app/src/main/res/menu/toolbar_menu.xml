@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="사전검색"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/ic_delete_forever_black_24dp"
+        android:title="대화내용 지우기"
+
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/daily"
+        android:icon="@drawable/ic_note_black_24dp"
+        android:title="일일 문장/단어"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/option"
+        android:icon="@drawable/ic_menu_black_24dp"
+        android:title="설정"
+        app:showAsAction="always"/>
+
+</menu>
